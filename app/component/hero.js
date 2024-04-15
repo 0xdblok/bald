@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import hero from "./hero.png";
-import Tokenomics from "./../../../cat/app/component/tokenomics";
 
 export default function Hero() {
   return (
