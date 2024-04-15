@@ -5,12 +5,12 @@ export default function Footer() {
   return (
     <div className="animate__animated animate__fadeInUp">
       <div className="animate__animated animate__fadeInUp flex gap-3 pt-10 justify-center lg:justify-end lg:pr-4 pb-3 ">
-        <a href="">
+        <a href="https://t.me/+NvWfdh40p-BkZDk1">
           {" "}
           <svg
-            className="lg:w-[66px] lg:h-[66px]"
-            width="36"
-            height="36"
+            className="lg:w-[44px] lg:h-[44px]"
+            width="30"
+            height="30"
             viewBox="0 0 50 50"
             fill="none"
             xmlns="http://www.w3.org/2000/svg">
@@ -29,12 +29,12 @@ export default function Footer() {
             />
           </svg>
         </a>
-        <a href="">
+        <a href="https://x.com/briyanarmstrung">
           {" "}
           <svg
-            className="lg:w-[66px] lg:h-[66px]"
-            width="36"
-            height="36"
+            className="lg:w-[44px] lg:h-[44px]"
+            width="30"
+            height="30"
             viewBox="0 0 50 50"
             fill="none"
             xmlns="http://www.w3.org/2000/svg">
