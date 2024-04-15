@@ -19,10 +19,10 @@ export default function Hero() {
       </div>
       <div className="text-xl text-slate-100 pt-28 text-center font-mono font-bold pt-6">
         <h1 className="text-3xl text-slate-100">TOKENOMICS</h1>
-        <p className="pt-2">
+        <p className="pt-4">
           TOTAL SUPPLY : <span className=" text-slate-100">1B</span>
         </p>
-        <p className=" break-words ">
+        <p className=" break-words pt-2 ">
           CONTRACT ADDRESS : 0xCA34dA23609e9dD0244282BB751070e663ebAE46
         </p>
       </div>

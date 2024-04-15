@@ -3,8 +3,8 @@ import Image from "next/image";
 
 export default function Footer() {
   return (
-    <div className="animate__animated animate__fadeInUp">
-      <div className="animate__animated animate__fadeInUp flex gap-3 pt-10 justify-center lg:justify-end lg:pr-4 pb-3 ">
+    <div className="bg-[#010CFE] animate__animated animate__fadeInUp">
+      <div className="animate__animated animate__fadeInUp flex gap-3 pt-16 justify-center lg:justify-end lg:pr-4 pb-16 ">
         <a href="https://t.me/+NvWfdh40p-BkZDk1">
           {" "}
           <svg
