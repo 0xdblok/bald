@@ -22,7 +22,7 @@ export default function Hero() {
         <p className="pt-2">
           TOTAL SUPPLY : <span className=" text-slate-100">1B</span>
         </p>
-        <p>CONTRACT ADDRESS ...</p>
+        <p>CONTRACT ADDRESS : 0xCA34dA23609e9dD0244282BB751070e663ebAE46</p>
       </div>
     </div>
   );
