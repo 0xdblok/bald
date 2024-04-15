@@ -4,7 +4,7 @@ import Footer from "./component/footer";
 
 export default function Home() {
   return (
-    <main className="bg-[#010CFE] h-full">
+    <main className="bg-[#010CFE] h-full px-4">
       <Hero />
       <Footer />
     </main>

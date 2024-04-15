@@ -10,7 +10,7 @@ export default function Hero() {
           Hi I'm Briyan Armstrung, the crypto STRUNG BOY
         </h1>
 
-        <div className="flex pt-4 justify-center">
+        <div className="flex pt-4  justify-center">
           <Image src={hero} width={370} height={370} />
         </div>
       </div>
@@ -22,7 +22,9 @@ export default function Hero() {
         <p className="pt-2">
           TOTAL SUPPLY : <span className=" text-slate-100">1B</span>
         </p>
-        <p>CONTRACT ADDRESS : 0xCA34dA23609e9dD0244282BB751070e663ebAE46</p>
+        <p className=" break-words">
+          CONTRACT ADDRESS : 0xCA34dA23609e9dD0244282BB751070e663ebAE46
+        </p>
       </div>
     </div>
   );
