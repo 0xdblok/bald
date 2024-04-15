@@ -6,10 +6,11 @@ export default function Hero() {
   return (
     <div>
       <div className="">
-        <h1 className="text-center p-6 pt-4 font-mono font-semibold text-3xl">
-          Hi I'm Briyan Armstrung, the crypto STRUNG BOY{" "}
+        <h1 className="px-24 text-center p-6 pt-8 font-mono font-semibold text-3xl">
+          Hi I'm Briyan Armstrung, the crypto STRUNG BOY
         </h1>
-        <div className="flex pt-2 justify-center">
+
+        <div className="flex pt-4 justify-center">
           <Image src={hero} width={370} height={370} />
         </div>
       </div>
