@@ -17,7 +17,7 @@ export default function Hero() {
       <div className="text-center pt-4 text-xl font-medium font-mono">
         <p> </p>
       </div>
-      <div className="text-xl text-slate-100 pt-16 text-center font-mono font-bold pt-6">
+      <div className="text-xl text-slate-100 pt-28 text-center font-mono font-bold pt-6">
         <h1 className="text-3xl text-slate-100">TOKENOMICS</h1>
         <p className="pt-2">
           TOTAL SUPPLY : <span className=" text-slate-100">1B</span>
