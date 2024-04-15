@@ -16,9 +16,9 @@ export default function Hero() {
       <div className="text-center pt-4 text-xl font-medium font-mono">
         <p> </p>
       </div>
-      <div className="text-xl pt-12 text-center font-mono font-bold pt-6">
+      <div className="text-xl pt-16 text-center font-mono font-bold pt-6">
         <h1 className="text-3xl">TOKENOMICS</h1>
-        <p className="pt-1">TOTAL SUPPLY : ...</p>
+        <p className="pt-2">TOTAL SUPPLY : 1B</p>
         <p>CONTRACT ADDRESS ...</p>
       </div>
     </div>
